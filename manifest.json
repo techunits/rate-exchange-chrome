@@ -1,0 +1,14 @@
+{
+    "name": "Techunits Rate Exchnage Service",
+    "description": "Techunits Currency Exchange is an online webservice which allows users as well as developers to fetch almost realtime currency rates. We have introduce a simple JSON API for developers to use it in their application for currency exchange for FREE. Our service is free and it will always be FREE.",
+    "version": "0.1",
+    "browser_action": {
+        "default_icon": "images/currency-16.png",
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "16": "images/currency-16.png",
+        "128": "images/currency-128.png"
+    },
+    "manifest_version": 2
+}
